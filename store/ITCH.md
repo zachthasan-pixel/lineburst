@@ -1,6 +1,6 @@
 # Lineburst — itch.io page pack
 
-**Play now:** https://zachthasan-pixel.github.io/lineburst/
+**Play now:** https://drzahirhasan.com/lineburst/
 
 Paste these into a new itch project. Assets in this folder.
 
@@ -52,7 +52,7 @@ Dark, abstract, geometric.
 ## Description (paste into the editor)
 
 ```
-Play: https://zachthasan-pixel.github.io/lineburst/
+Play: https://drzahirhasan.com/lineburst/
 
 Fit three pieces onto an 8×8 grid. Fill a row or a column and it bursts. The board never rotates the pieces for you — what you see is what you place.
 
@@ -82,7 +82,7 @@ No account. No download. One sitting.
 ## Community / itch “instructions” box
 
 ```
-Play in the browser: https://zachthasan-pixel.github.io/lineburst/
+Play in the browser: https://drzahirhasan.com/lineburst/
 
 On a phone, use the whole screen — drag or tap-to-place. First run shows a short how-to.
 ```
@@ -140,5 +140,5 @@ X / Reddit:
 
 ```
 Lineburst — a mean little grid puzzle in the browser. Hold the 5-bar. Chain a tight fit into B2B.
-https://zachthasan-pixel.github.io/lineburst/
+https://drzahirhasan.com/lineburst/
 ```

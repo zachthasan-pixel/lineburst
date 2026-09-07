@@ -1,6 +1,6 @@
 # Lineburst — itch.io page pack
 
-**Play now:** https://zachthasan-pixel.github.io/lineburst/
+**Play now:** https://drzahirhasan.com/lineburst/
 
 Upload these files from this folder. Do not mention other block games in the title or tags.
 
@@ -34,7 +34,7 @@ Today, or leave blank.
 Mouse, touch. Keyboard: 1–3 select pieces, C / Shift hold, Esc pause.
 
 **Embed / play**  
-Live game: https://zachthasan-pixel.github.io/lineburst/  
+Live game: https://drzahirhasan.com/lineburst/  
 On itch, use an external embed / “hosted on another website” with that URL. Do not upload the Vercel SSR zip.
 
 ## Tags (copy exactly)
